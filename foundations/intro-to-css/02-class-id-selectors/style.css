@@ -1,0 +1,19 @@
+.pink-bg {
+    background-color: pink;
+    font-family: 'Verdana' 'DejaVu Sans' sans-serif;
+}
+
+.pink-bg.cooler {
+    font-size: 24px;
+}
+
+#two {
+    font-size: 32px;
+    color: blue;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
